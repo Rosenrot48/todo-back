@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "express": "^4.17.1",
     "bcryptjs": "^2.4.3",
-    "react-native-reanimated": "1.8.0",
+    "react-native-reanimated": "2.10.0",
     "react-native-gesture-handler": "1.6.1"
   },
   "devDependencies": {
